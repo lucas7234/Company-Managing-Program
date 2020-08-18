@@ -13,6 +13,7 @@ main()
 {
   int id=assignID();
   printf("Your new employee ID is %d!", id);
+  return 0;
 }
 
 int assignID()
